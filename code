@@ -1,0 +1,18 @@
+class Solution (
+public:
+int romanToInt(string s) { map echar, int> mp {{'X',1), ('V', 5}, {'X', 10), ('L',50), ('C', 100),('D',500),
+('', 1000)); 
+
+Int len = s.length();
+Int total = mp[s.back()]; // traverse string from right
+for(int i=ten-2;10;1-)
+{
+ if(mp[i]]mpts[i+1]}}
+total-mpts(4)
+elsef
+
+total mpfs[4]
+
+return total;
+}
+};
